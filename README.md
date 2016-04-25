@@ -1,7 +1,7 @@
 # Java-assignments
 Java assignments
-public class Ex4PartA {
 
+public class Ex4PartA {
 	public static void main(String[] args) {
 		//Declare and create an array capable of containing 20 integers
 		int[] myArray = new int[20];
