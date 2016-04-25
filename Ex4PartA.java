@@ -12,8 +12,3 @@ public class Ex4PartA {
 	}
 }
 
-//2nd variant
-		//int[] myArray1 = {2,4,6,8,10,12,14,16,18,20,22,24,26,28,30,32,34,36,38,40};
-		//for(int i=0; i<myArray1.length; i++){
-		//System.out.println(myArray1[i]);
-		//}
